@@ -41,4 +41,4 @@
 });
 ```
 
-[在线地址](http://sandbox.runjs.cn/show/idnp4w0p)
+[在线地址](https://blog.jiasm.org/TypeWriter/test/test)
