@@ -41,4 +41,5 @@
 });
 ```
 
-[在线地址](https://blog.jiasm.org/TypeWriter/test/test)
+[在线地址](https://jiasm.github.io/TypeWriter/test/test)
+
